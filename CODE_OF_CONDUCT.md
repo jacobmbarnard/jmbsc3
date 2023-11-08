@@ -1,6 +1,6 @@
 # The Jacob M. Barnard System Contributor Code of Conduct
 
-*AKA: JMBSCCC or JMBS3C*
+*Code of Conduct Version: 1.0*
 
 ## Professional, Not Personal
 
