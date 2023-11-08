@@ -1,22 +1,22 @@
 # The Jacob M. Barnard System Contributor Code of Conduct
 
-*Code of Conduct Version: 1.0*
+*Code of Conduct Version: 1.0.1*
 
 ## Professional, Not Personal
 
-A System Contributor is expected to participate in a manner devoid of interpersonal drama, vendetta, agenda, subterfuge, and the like. At all times, contributors shall conduct themselves in a professional manner, seeking to achieve the goal of the Project: improve the System software itself. Any interpersonal issues must be addressed in ways other than forums, chats, emails, tracking tools, etc. used to communicate about the development of the System.
+A System Contributor is expected to participate in a manner devoid of interpersonal drama, vendetta, agenda, subterfuge, and the like. At all times, System Contributors shall conduct themselves professionally, seeking to achieve the goal of the Project: improve the System software itself. Any interpersonal issues must be addressed in ways other than forums, chats, emails, tracking tools, etc. used to communicate about the development of the System.
 
 ## Higher Commitments
 
-While the vision for and production of the System is good, contributors are expected to acknowledge higher commitments, such as those pertaining to family, friends, government and so on. At no time shall contributions/work toward the System take precedence over higher commitments in life.
+While the vision for and production of the System is good, System Contributors are expected to acknowledge higher commitments, such as those pertaining to family, friends, government and so on. At no time shall contributions/work toward the System take precedence over higher commitments in life.
 
 ## Team Fluidity
 
-In keeping with the acknowledgment of higher commitments, it is likely that some contributors may only participate as a System Contributor for a brief season, then leave - for a short time, long time or permanently. Contributions should be well-scoped, and progress should be well-marked, so that other contributors can pick up where another contributor left off.
+In keeping with the acknowledgment of higher commitments, it is likely that some System Contributors may only participate as a System Contributor for a brief season, then leave - for a short time, long time or permanently. Contributions should be well-scoped, and progress should be well-marked, so that other System Contributors can pick up where another System Contributors left off.
 
 ## Clarity
 
-Communication and collaboration among contributors to the System Contributor are expected to be clear, accurate and precise insofar as is possible.
+Communication and collaboration among System Contributors to the System Contributor are expected to be clear, accurate and precise insofar as is possible.
 
 ## Appositeness
 
@@ -28,11 +28,11 @@ Variation is a crucial aspect for the vitality, nimbleness, agility and adaptabi
 
 ## Crystallization of Fundaments
 
-Locking fundamental features into place is just as crucial as being open to various new ideas. Where features of the System represent a "core" of functionality, contributors shall be expected to guard and preserve those features, minimizing or eliminating disruption to them. A stable bedrock of core features is the best foundation for additional and diverse new layers of functionality.
+Locking fundamental features into place is just as crucial as being open to various new ideas. Where features of the System represent a "core" of functionality, System Contributors shall be expected to guard and preserve those features, minimizing or eliminating disruption to them. A stable bedrock of core features is the best foundation for additional and diverse new layers of functionality.
 
 ## Adherence to the Correspondence Theory of Reality
 
-Contributors are expected to adhere to the correspondence theory of reality (i.e. use terms that signify/correspond to something in reality). Referring to a particular object or action using a term which does not describe or allow others to readily identify said object or action leads to confusion and disruption.
+System Contributors are expected to adhere to the correspondence theory of reality (i.e. use terms that signify/correspond to something in reality). Referring to a particular object or action using a term which does not describe or allow others to readily identify said object or action leads to confusion and disruption.
 
   - e.g. referring to `[]` as empty square brackets satisfies the correspondence theory of reality
   - e.g. referring to `{}` as an underscore *does not* satisfy the correspondence theory of reality
@@ -52,13 +52,13 @@ Contributions to the System should be concise and elegant.
 
 ## Conflict Resolution
 
-Interpersonal conflicts are to be resolved outside of working on the System. See the **Professional, Not Personal** section of this Code of Conduct.
+Interpersonal conflicts are to be resolved outside of working on the System. See [Professional, Not Personal](#professional-not-personal).
 
-Professional conflicts may be resolved by orderly, cordial and open discussion with another System Contributor contributor community (e.g. which feature is the more pertinent, advantageous, etc.?).
+Professional conflicts must be resolved by orderly, cordial, and open discussion with other System Contributors (e.g. which feature is the more pertinent, advantageous, etc.?).
 
-Discussions which move into one or more areas of personal conflict do not conform to this Code of Conduct. Contributors to System Contributor shall make every effort to close, remove, etc. such discussions from discourse.
+Discussions which move into one or more areas of personal conflict do not conform to this Code of Conduct. System Contributors shall make every effort to close, remove, etc. such discussions from discourse.
 
-Any contributor who violates this section of the Code of Conduct is subject losing System Contributor privileges.
+Any System Contributor who violates this section of the Code of Conduct is subject losing System Contributor privileges.
 
 ## Accreditation
 
