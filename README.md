@@ -13,7 +13,7 @@ See [CODE OF CONDUCT](CODE_OF_CONDUCT.md).
 ## How to use it?
 
 1. Create `CODE_OF_CONDUCT.md` in your project's root directory.
-1. Below, find the version that you want to use below.
+1. Find the version that you want to use below.
 1. Follow the instructions to use your chosen version of the JMBSC3.
 
 ## Releases
